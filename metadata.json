@@ -1,0 +1,5 @@
+{
+  "name": "URL Redirect Checker & SEO Analyzer",
+  "description": "Free professional SEO tool to trace full URL redirect chains. Analyze 301 vs 302 status codes, detect loops, measure latency, and visualize the path. No sign-up required.",
+  "requestFramePermissions": []
+}
